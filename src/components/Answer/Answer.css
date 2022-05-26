@@ -1,0 +1,15 @@
+.answer-card {
+     width: 70%; 
+margin: 0 auto;
+}
+img.answer {
+    width: 40%;
+    min-width: 250px;
+}
+.text {
+    width: 60%;
+}
+.bon-appetit {
+    font-family: 'Courgette', cursive;
+   
+}
